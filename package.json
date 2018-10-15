@@ -1,0 +1,18 @@
+{
+  "name": "react-flash",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "description": "A react flash component",
+  "homepage": "https://github.com/Fish-bowl/react-flash",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fish-bowl/react-flash"
+  },
+  "author": {},
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "styled-components": "^4.0.0"
+  }
+}
